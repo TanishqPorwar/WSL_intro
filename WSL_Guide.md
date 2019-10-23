@@ -33,18 +33,18 @@ Before installing any Linux distros for WSL, you must ensure that the "Windows S
 
 **Download and install from the Microsoft Store**
 
-1. Open the Microsoft Store and choose your favourite Linux distribution. Ubuntu is beginner friendly.
+1. Go to this link.
 
    - [Ubuntu 18.04 LTS](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)
-   
-    
 
 2.  From the distro's page, select "Get" 
 
 ### Setting up your WSL to run ASM code
 
-   **Run the following commands in your terminal (ubuntu users)**
-
+   **Run the following commands in your terminal**
+* Go to **Start** search **cmd**
+* run `bash` command
+* run below commands one by one
 ```bash
 sudo apt update
 sudo apt upgrade
