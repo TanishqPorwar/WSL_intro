@@ -44,7 +44,7 @@ Before installing any Linux distros for WSL, you must ensure that the "Windows S
    **Run the following commands in your terminal**
 * Go to **Start** search **cmd**
 * run `bash` command
-* run below commands one by one
+* run the following commands one by one
 ```bash
 sudo apt update
 sudo apt upgrade
