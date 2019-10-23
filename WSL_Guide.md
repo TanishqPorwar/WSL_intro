@@ -22,7 +22,7 @@ Before installing any Linux distros for WSL, you must ensure that the "Windows S
 
 2. In the search bar, type “turn windows features on or off,” click the item from the drop-down box, and a new window will pop up.
 
-   ![image-20191023212401266](C:\Users\Tanishq Porwar\AppData\Roaming\Typora\typora-user-images\image-20191023212401266.png)
+   ![image-20191023212401266](image-20191023212401266.png)
 
 5. It may take a few moments to load, but once it’s done there will be a list of features with checkboxes next to them. Scroll down to **Windows Subsystem for Linux** and check the box. This will begin downloading and installing the necessary files. Your computer will then restart, after which the installation is complete.
 
